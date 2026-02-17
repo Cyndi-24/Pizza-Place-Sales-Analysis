@@ -37,4 +37,10 @@ d) Jupyter Notebook: This is the interactive environment used to document the an
 
 ---
 
+# Recommendations
+a) From the analysis the peak hours of sales were between *12 - 1 pm*  and the busiest day of the week is usually *Fridays*.Based on this there must be proper stocking during this Strategic periods to avoid shortages and there should be sufficient staff on ground during these period to meet up with the customer order.
+b) Proper investigation should be carried out to find out the rason behind the flunctuations in sales trend.This will help in guiding sales optimizatio during seasons of poor sales.
+c) Low peforming pizza in terms of volume ordered  and revenue generated such as *The Brie Carre Pizza* can be removed completely from the menu and the resources chanelled to the high performing pizzas or the product can be rebranded and put on promo to improve its sales.
+d) For 
+
 
