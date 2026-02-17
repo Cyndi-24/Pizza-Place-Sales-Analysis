@@ -21,3 +21,20 @@ The following questions were answered in the course of the analysis
 10) Are there pizza types that are not doing well in the menu?
 
 ---
+# Data Sourcing
+---
+This dataset was sourced from kaggle.com
+
+---
+# Technologies Used/SKills Demonstrated
+a) Python: This was the main programming language used for the analysis
+
+b) Pandas: This was used for data cleaning,merging the csv files and performing most mathematical operations
+
+c) Matplotlib: This was used for creating the data visuals
+
+d) Jupyter Notebook: This is the interactive environment used to document the analysis step by step
+
+---
+
+
