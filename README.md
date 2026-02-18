@@ -45,6 +45,6 @@ b) Proper investigation should be carried out to find out the rason behind the f
 
 c) Low peforming pizza in terms of volume ordered  and revenue generated such as *The Brie Carre Pizza* can be removed completely from the menu and the resources chanelled to the high performing pizzas or the product can be rebranded and put on promo to improve its sales.
 
-d) For high performing Pizzas such as *The Classic Deluxe Pizza*  and *The Barbecue Chicken Pizza&  the ingredient and preparation should always be proritized to avoid out of stock.
+d) For high performing Pizzas such as *The Classic Deluxe Pizza*  and *The Barbecue Chicken Pizza* the ingredient availibility and preparation should always be proritized to avoid going  out of stock.
 
 
